@@ -4,7 +4,6 @@ Welcome to My page!
 
 🗺️ I'm william, Fullstack developer from Shang Hai, China.🇨🇳 
 
-<br />
 
 ### Things I code with
 
@@ -37,8 +36,6 @@ Welcome to My page!
 </p>
 
 <p>More...</p>
-
-<br />
 
 
 <!--
