@@ -28,7 +28,6 @@ Welcome to My page!
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-gray?style=flat-square&logo=python&logoColor=orange" />
-  <img alt="Golang" src="https://img.shields.io/badge/-Go-lightgray?style=flat-square&logo=go&logoColor=blue" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-8DD6F9?style=flat-square&logo=mysql&logoColor=darkblue" />
