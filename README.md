@@ -16,7 +16,7 @@ Welcome to My page!
   <img alt="Python" src="https://img.shields.io/badge/-Python-gray?style=flat-square&logo=python&logoColor=orange" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-8DD6F9?style=flat-square&logo=mysql&logoColor=darkblue" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-8DD6F9?style=flat-square&logo=PostgreSQL&logoColor=darkblue" />
 </p>
 
 <p>More...</p>
